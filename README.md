@@ -589,7 +589,7 @@ The Bumbalo Model does not merely describe a phenomenon: it proposes a **new par
 
 > *Bumbalo Model — Supplementary Theoretical Volume*  
 > **Egocentric Language in the Adult (ELA)** | Phenomenology · Cognitive Psychology · Psychopathology  
-> English Translation
+
 
 ---
 
