@@ -543,7 +543,7 @@ Its role is phenomenological: it helps to understand how the adult can support t
 
 ---
 
-### — Epistemological Implications and Research Perspectives
+###  Epistemological Implications and Research Perspectives
 
 #### ELA as a New Theoretical Category
 
