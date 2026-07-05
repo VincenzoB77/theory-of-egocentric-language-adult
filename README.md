@@ -1059,7 +1059,7 @@ ELA becomes:
 
 *— End of Appendix —*  
 *Bumbalo Model · Advanced Theoretical Extensions · © 2026*
-© 2026 Dr. Vincenzo Bumbalo. All rights reserved. This work is fully protected by international copyright 
+Dr. Vincenzo Bumbalo. All rights reserved. This work is fully protected by international copyright 
 legislation. Any unauthorized use, reproduction, distribution, storage, or transmission is strictly forbidden 
 and will be prosecuted under applicable law. No part of this material may be copied, archived, or 
 disseminated without prior written authorization from the author.
