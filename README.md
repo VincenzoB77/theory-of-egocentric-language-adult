@@ -440,9 +440,9 @@ The adult ELA is the result of a process of **relational internalization** — t
 
  Advanced Theoretical Extensions of the Bumbalo Model
 
-> *Supplementary Theoretical Volume — *
+> *Supplementary Theoretical Volume  *
 
-###  — Phenomenology of ELA as Experienced by the Adult
+###   Phenomenology of ELA as Experienced by the Adult
 
 #### ELA as a Spontaneous Practice of Self-Regulation
 
@@ -480,7 +480,7 @@ When the adult speaks to themselves, the voice is a **phenomenological gesture**
 
 ---
 
-###  — The Timing of ELA: A Superior Function Distinct from Internalized Language
+###   The Timing of ELA: A Superior Function Distinct from Internalized Language
 
 #### Why Timing Is Decisive
 
@@ -517,7 +517,7 @@ One's own voice, perceived as an auditory stimulus:
 
 ---
 
-###  — ELA as a Stabilizing Factor in Disorganization Processes
+###   ELA as a Stabilizing Factor in Disorganization Processes
 
 > **Important clarification:** The Bumbalo Model does not propose ELA as a treatment or clinical prevention. It proposes a **theoretical hypothesis**: that adult egocentric language may contribute to maintaining the continuity of experience in moments of psychological vulnerability.
 
